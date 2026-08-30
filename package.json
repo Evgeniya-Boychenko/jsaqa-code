@@ -1,0 +1,14 @@
+{
+  "name": "hw-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Evgeniya Boychenko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.3.0"
+  }
+}
