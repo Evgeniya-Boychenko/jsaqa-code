@@ -1,0 +1,14 @@
+
+node_modules/
+
+ 
+test-results/
+screenshots/
+videos/
+
+
+.DS_Store
+Thumbs.db
+
+
+.env

@@ -1,0 +1,23 @@
+{
+  "name": "cinema-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chai": "^6.2.2",
+    "jest": "^30.5.1",
+    "jest-puppeteer": "^11.0.0",
+    "puppeteer": "^25.9.0"
+  },
+  "devDependencies": {
+    "jest-cucumber": "^4.5.0"
+  }
+}
