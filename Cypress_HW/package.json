@@ -1,0 +1,18 @@
+{
+  "name": "cypress_hw",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Evgeniya Boychenko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test:desktop:headed": "cypress run --headed --browser chrome --config-file cypress.config.js",
+    "test:desktop:headless": "cypress run --browser chrome --config-file cypress.config.js",
+    "test:mobile:headed": "cypress run --headed --browser electron --config-file cypress.config.mobile.js",
+    "test:mobile:headless": "cypress run --browser electron --config-file cypress.config.mobile.js"
+  },
+  "devDependencies": {
+    "cypress": "^16.0.0"
+  }
+}
