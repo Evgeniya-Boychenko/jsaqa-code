@@ -1,0 +1,10 @@
+{
+  "happyPath": {
+    "email": "qamid@qamid.ru",
+    "password": "qamid"
+  },
+  "sadPath": {
+    "email": "badEmail@mail.ru",
+    "password": "badPassword"
+  }
+}

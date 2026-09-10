@@ -1,0 +1,15 @@
+{
+  "name": "cypress_hw2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Evgeniya Boychenko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^16.0.0"
+  }
+}
