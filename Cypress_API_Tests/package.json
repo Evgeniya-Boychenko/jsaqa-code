@@ -1,0 +1,16 @@
+{
+  "name": "cypress_api_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key b1af31f1-d516-476f-b674-3285e62f55ad"
+  },
+  "keywords": [],
+  "author": "Evgeniya Boychenko",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^16.0.0"
+  }
+}
